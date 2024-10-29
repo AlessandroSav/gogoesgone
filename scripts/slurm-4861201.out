@@ -1,0 +1,207 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+Processing days:   0%|          | 0/30 [00:00<?, ?it/s]
+Processing hours:   0%|          | 0/23 [00:00<?, ?it/s][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31112708e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:   4%|▍         | 1/23 [00:29<10:59, 29.96s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31116308e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:   9%|▊         | 2/23 [00:39<06:14, 17.85s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31119908e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  13%|█▎        | 3/23 [00:50<04:53, 14.66s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31123508e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  17%|█▋        | 4/23 [01:02<04:20, 13.70s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31127108e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  22%|██▏       | 5/23 [01:16<04:09, 13.84s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31130708e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  26%|██▌       | 6/23 [01:26<03:34, 12.65s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31134308e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  30%|███       | 7/23 [01:51<04:26, 16.65s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31137908e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  35%|███▍      | 8/23 [02:04<03:51, 15.46s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31141508e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  39%|███▉      | 9/23 [02:24<03:55, 16.85s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31145108e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  43%|████▎     | 10/23 [02:34<03:09, 14.57s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31148708e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  48%|████▊     | 11/23 [02:43<02:35, 12.96s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31152308e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  52%|█████▏    | 12/23 [02:52<02:11, 11.91s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31155908e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  57%|█████▋    | 13/23 [03:02<01:51, 11.14s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31159508e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  61%|██████    | 14/23 [03:11<01:35, 10.58s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31163108e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  65%|██████▌   | 15/23 [03:21<01:22, 10.33s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31166708e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  70%|██████▉   | 16/23 [03:30<01:10, 10.02s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31170308e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  74%|███████▍  | 17/23 [03:40<00:59,  9.90s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31173908e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  78%|███████▊  | 18/23 [03:49<00:47,  9.60s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31177508e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  83%|████████▎ | 19/23 [03:58<00:37,  9.45s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31181108e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  87%|████████▋ | 20/23 [04:07<00:28,  9.41s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31184708e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  91%|█████████▏| 21/23 [04:17<00:18,  9.49s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31188308e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours:  96%|█████████▌| 22/23 [04:26<00:09,  9.59s/it][A/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/kerchunk/combine.py:370: UserWarning: Concatenated coordinate 't' contains less than expectednumber of values across the datasets: [6.31191908e+08]
+  warnings.warn(
+/home/acmsavazzi/.conda/envs/gogoesgone_env/lib/python3.13/site-packages/xarray/backends/api.py:671: RuntimeWarning: Failed to open Zarr store with consolidated metadata, but successfully read with non-consolidated metadata. This is typically much slower for opening a dataset. To silence this warning, consider:
+1. Consolidating metadata in this existing store with zarr.consolidate_metadata().
+2. Explicitly setting consolidated=False, to avoid trying to read consolidate metadata, or
+3. Explicitly setting consolidated=True, to raise an error in this case instead of falling back to try reading non-consolidated metadata.
+  backend_ds = backend.open_dataset(
+
+Processing hours: 100%|██████████| 23/23 [04:39<00:00, 10.45s/it][A
+                                                                 [AProcessing days:   3%|▎         | 1/30 [04:39<2:15:03, 279.43s/it]
+Processing hours:   0%|          | 0/23 [00:00<?, ?it/s][A
