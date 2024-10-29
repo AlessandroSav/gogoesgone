@@ -60,11 +60,15 @@ def nearest_time_url(
             generate_globsearch_string(
                 i.year, i.timetuple().tm_yday, i.hour, channel, product, satellite
             )
-        )
+        ) or []  # Substitute empty list if no URLs are found
         for i in [pre_dt_given, dt_given, post_dt_given]
     ]
-    flist = [item for sublist in url_list_hours for item in sublist]
 
+    flist = [item for sublist in url_list_hours for item in sublist]
+    # Check if no files are found
+    if not flist:
+        return None
+    
     dt_files = [
         datetime.datetime.strptime(
             f"{dt_given.year}" + i.split(f"_s{dt_given.year}")[1].split("_")[0][:-1],
